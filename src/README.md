@@ -1,0 +1,1 @@
+## This folder will contains Laravel application files
